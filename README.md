@@ -30,7 +30,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## 🧠 What I learned
 
 While working on this project, I reinforced my understanding of:
-- Using **semantic HTML** (`<main>`, `<nav>`, headings)
+- Using **semantic HTML** (`<main>`)
 - Creating **centered layouts** with Flexbox  
 - Designing **consistent color palettes and hover effects**
 
